@@ -1,0 +1,17 @@
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\bin\Debug\net6.0-windows\kartoyunu.exe
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\bin\Debug\net6.0-windows\kartoyunu.deps.json
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\bin\Debug\net6.0-windows\kartoyunu.runtimeconfig.json
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\bin\Debug\net6.0-windows\kartoyunu.dll
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\bin\Debug\net6.0-windows\kartoyunu.pdb
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\kartoyunu.Form1.resources
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\kartoyunu.Properties.Resources.resources
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\kartoyunu.csproj.GenerateResource.cache
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\kartoyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\kartoyunu.AssemblyInfoInputs.cache
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\kartoyunu.AssemblyInfo.cs
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\kartoyunu.csproj.CoreCompileInputs.cache
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\kartoyunu.dll
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\refint\kartoyunu.dll
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\kartoyunu.pdb
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\kartoyunu.genruntimeconfig.cache
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\kartoyunu\kartoyunu\obj\Debug\net6.0-windows\ref\kartoyunu.dll

@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|c:\\users\\v\u0130ctus\\onedrive\\masa\u00FCst\u00FC\\oop \u00F6devler\\kartoyunu\\kartoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|solutionrelative:kartoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|solutionrelative:kartoyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|c:\\users\\v\u0130ctus\\onedrive\\masa\u00FCst\u00FC\\oop \u00F6devler\\kartoyunu\\kartoyunu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|solutionrelative:kartoyunu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|c:\\users\\v\u0130ctus\\onedrive\\masa\u00FCst\u00FC\\oop \u00F6devler\\kartoyunu\\kartoyunu\\sifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|solutionrelative:kartoyunu\\sifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|c:\\users\\v\u0130ctus\\onedrive\\masa\u00FCst\u00FC\\oop \u00F6devler\\kartoyunu\\kartoyunu\\ikart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|solutionrelative:kartoyunu\\ikart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|c:\\users\\v\u0130ctus\\onedrive\\masa\u00FCst\u00FC\\oop \u00F6devler\\kartoyunu\\kartoyunu\\sald\u0131r\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|solutionrelative:kartoyunu\\sald\u0131r\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|c:\\users\\v\u0130ctus\\onedrive\\masa\u00FCst\u00FC\\oop \u00F6devler\\kartoyunu\\kartoyunu\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|solutionrelative:kartoyunu\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|c:\\users\\v\u0130ctus\\onedrive\\masa\u00FCst\u00FC\\oop \u00F6devler\\kartoyunu\\kartoyunu\\savunma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8171D5FA-A947-466E-9866-93DB3E5660FD}|kartoyunu\\kartoyunu.csproj|solutionrelative:kartoyunu\\savunma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Program.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Program.cs",
+              "RelativeToolTip": "kartoyunu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:44:53.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Oyuncu.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Oyuncu.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\Oyuncu.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Oyuncu.cs",
+              "RelativeToolTip": "kartoyunu\\Oyuncu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:43:42.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sifa.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Sifa.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\Sifa.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Sifa.cs",
+              "RelativeToolTip": "kartoyunu\\Sifa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:43:14.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Savunma.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Savunma.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\Savunma.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Savunma.cs",
+              "RelativeToolTip": "kartoyunu\\Savunma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:43:10.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sald\u0131r\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Sald\u0131r\u0131.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\Sald\u0131r\u0131.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Sald\u0131r\u0131.cs",
+              "RelativeToolTip": "kartoyunu\\Sald\u0131r\u0131.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:42:03.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IKart.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\IKart.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\IKart.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\IKart.cs",
+              "RelativeToolTip": "kartoyunu\\IKart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:41:24.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\Form1.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Form1.cs",
+              "RelativeToolTip": "kartoyunu\\Form1.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:50:55.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\OOP \u00D6DEVLER\\kartoyunu\\kartoyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "kartoyunu\\Form1.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\Source\\Repos\\kartoyunu\\kartoyunu\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Source\\Repos\\kartoyunu\\kartoyunu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T16:53:57.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
